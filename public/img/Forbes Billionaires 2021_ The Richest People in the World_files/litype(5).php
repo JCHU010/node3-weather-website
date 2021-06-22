@@ -1,1 +1,0 @@
-window.advBidxc.doRefresh({"lid":"4967125670","ref":true,"litype":"AD_EXCHANGE"});
