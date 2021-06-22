@@ -1,0 +1,1 @@
+window.advBidxc.doRefresh({"lid":"4808619481","ref":true,"litype":"PRICE_PRIORITY"});

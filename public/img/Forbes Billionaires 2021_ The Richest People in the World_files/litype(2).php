@@ -1,0 +1,1 @@
+window.advBidxc.doRefresh({"lid":"5657699986","ref":true,"litype":"STANDARD"});
